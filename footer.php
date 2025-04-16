@@ -1,0 +1,1 @@
+<link href="./src/js/script.js" rel="javascript">
